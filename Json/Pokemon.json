@@ -1,1814 +1,2185 @@
-[
-  {
-    "Pno": 1,
-    "Name": "Bulbasaur",
-    "Name_CT": "妙蛙種子",
-    "HP": 45,
-    "Atk": 49,
-    "Def": 49,
-    "SpAtk": 65,
-    "SpDef": 65,
-    "Speed": 45,
-    "Type": ["Grass", "Poison"]
-  },
-  {
-    "Pno": 2,
-    "Name": "Ivysaur",
-    "Name_CT": "妙蛙草",
-    "HP": 60,
-    "Atk": 62,
-    "Def": 63,
-    "SpAtk": 80,
-    "SpDef": 80,
-    "Speed": 60,
-    "Type": ["Grass", "Poison"]
-  },
-  {
-    "Pno": 3,
-    "Name": "Venusaur",
-    "Name_CT": "妙蛙花",
-    "HP": 80,
-    "Atk": 82,
-    "Def": 83,
-    "SpAtk": 100,
-    "SpDef": 100,
-    "Speed": 80,
-    "Type": ["Grass", "Poison"]
-  },
-  {
-    "Pno": 4,
-    "Name": "Charmander",
-    "Name_CT": "小火龍",
-    "HP": 39,
-    "Atk": 52,
-    "Def": 43,
-    "SpAtk": 60,
-    "SpDef": 50,
-    "Speed": 65,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 5,
-    "Name": "Charmeleon",
-    "Name_CT": "火恐龍",
-    "HP": 58,
-    "Atk": 64,
-    "Def": 58,
-    "SpAtk": 80,
-    "SpDef": 65,
-    "Speed": 80,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 6,
-    "Name": "Charizard",
-    "Name_CT": "噴火龍",
-    "HP": 78,
-    "Atk": 84,
-    "Def": 78,
-    "SpAtk": 109,
-    "SpDef": 85,
-    "Speed": 100,
-    "Type": ["Fire", "Flying"]
-  },
-  {
-    "Pno": 7,
-    "Name": "Squirtle",
-    "Name_CT": "傑尼龜",
-    "HP": 44,
-    "Atk": 48,
-    "Def": 65,
-    "SpAtk": 50,
-    "SpDef": 64,
-    "Speed": 43,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 8,
-    "Name": "Wartortle",
-    "Name_CT": "卡咪龜",
-    "HP": 59,
-    "Atk": 63,
-    "Def": 80,
-    "SpAtk": 65,
-    "SpDef": 80,
-    "Speed": 58,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 9,
-    "Name": "Blastoise",
-    "Name_CT": "水箭龜",
-    "HP": 79,
-    "Atk": 83,
-    "Def": 100,
-    "SpAtk": 85,
-    "SpDef": 105,
-    "Speed": 78,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 10,
-    "Name": "Caterpie",
-    "Name_CT": "綠毛蟲",
-    "HP": 45,
-    "Atk": 30,
-    "Def": 35,
-    "SpAtk": 20,
-    "SpDef": 20,
-    "Speed": 45,
-    "Type": ["Bug"]
-  },
-  {
-    "Pno": 11,
-    "Name": "Metapod",
-    "Name_CT": "鐵甲蛹",
-    "HP": 50,
-    "Atk": 20,
-    "Def": 55,
-    "SpAtk": 25,
-    "SpDef": 25,
-    "Speed": 30,
-    "Type": ["Bug"]
-  },
-  {
-    "Pno": 12,
-    "Name": "Butterfree",
-    "Name_CT": "巴大蝶",
-    "HP": 60,
-    "Atk": 45,
-    "Def": 50,
-    "SpAtk": 80,
-    "SpDef": 80,
-    "Speed": 70,
-    "Type": ["Bug", "Flying"]
-  },
-  {
-    "Pno": 13,
-    "Name": "Weedle",
-    "Name_CT": "獨角蟲",
-    "HP": 40,
-    "Atk": 35,
-    "Def": 30,
-    "SpAtk": 20,
-    "SpDef": 20,
-    "Speed": 50,
-    "Type": ["Bug", "Poison"]
-  },
-  {
-    "Pno": 14,
-    "Name": "Kakuna",
-    "Name_CT": "鐵殼蛹",
-    "HP": 45,
-    "Atk": 25,
-    "Def": 50,
-    "SpAtk": 25,
-    "SpDef": 25,
-    "Speed": 35,
-    "Type": ["Bug", "Poison"]
-  },
-  {
-    "Pno": 15,
-    "Name": "Beedrill",
-    "Name_CT": "大針蜂",
-    "HP": 65,
-    "Atk": 80,
-    "Def": 40,
-    "SpAtk": 45,
-    "SpDef": 80,
-    "Speed": 75,
-    "Type": ["Bug", "Poison"]
-  },
-  {
-    "Pno": 16,
-    "Name": "Pidgey",
-    "Name_CT": "波波",
-    "HP": 40,
-    "Atk": 45,
-    "Def": 40,
-    "SpAtk": 35,
-    "SpDef": 35,
-    "Speed": 56,
-    "Type": ["Normal", "Flying"]
-  },
-  {
-    "Pno": 17,
-    "Name": "Pidgeotto",
-    "Name_CT": "比比鳥",
-    "HP": 63,
-    "Atk": 60,
-    "Def": 55,
-    "SpAtk": 50,
-    "SpDef": 50,
-    "Speed": 71,
-    "Type": ["Normal", "Flying"]
-  },
-  {
-    "Pno": 18,
-    "Name": "Pidgeot",
-    "Name_CT": "大比鳥",
-    "HP": 83,
-    "Atk": 80,
-    "Def": 75,
-    "SpAtk": 70,
-    "SpDef": 70,
-    "Speed": 91,
-    "Type": ["Normal", "Flying"]
-  },
-  {
-    "Pno": 19,
-    "Name": "Rattata",
-    "Name_CT": "小拉達",
-    "HP": 30,
-    "Atk": 56,
-    "Def": 35,
-    "SpAtk": 25,
-    "SpDef": 35,
-    "Speed": 72,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 20,
-    "Name": "Raticate",
-    "Name_CT": "拉達",
-    "HP": 55,
-    "Atk": 81,
-    "Def": 60,
-    "SpAtk": 50,
-    "SpDef": 70,
-    "Speed": 97,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 21,
-    "Name": "Spearow",
-    "Name_CT": "烈雀",
-    "HP": 40,
-    "Atk": 60,
-    "Def": 30,
-    "SpAtk": 31,
-    "SpDef": 31,
-    "Speed": 70,
-    "Type": ["Normal", "Flying"]
-  },
-  {
-    "Pno": 22,
-    "Name": "Fearow",
-    "Name_CT": "大嘴雀",
-    "HP": 65,
-    "Atk": 90,
-    "Def": 65,
-    "SpAtk": 61,
-    "SpDef": 61,
-    "Speed": 100,
-    "Type": ["Normal", "Flying"]
-  },
-  {
-    "Pno": 23,
-    "Name": "Ekans",
-    "Name_CT": "阿柏蛇",
-    "HP": 35,
-    "Atk": 60,
-    "Def": 44,
-    "SpAtk": 40,
-    "SpDef": 54,
-    "Speed": 55,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 24,
-    "Name": "Arbok",
-    "Name_CT": "阿柏怪",
-    "HP": 60,
-    "Atk": 85,
-    "Def": 69,
-    "SpAtk": 65,
-    "SpDef": 79,
-    "Speed": 80,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 25,
-    "Name": "Pikachu",
-    "Name_CT": "皮卡丘",
-    "HP": 35,
-    "Atk": 55,
-    "Def": 30,
-    "SpAtk": 50,
-    "SpDef": 40,
-    "Speed": 90,
-    "Type": ["Electric"]
-  },
-  {
-    "Pno": 26,
-    "Name": "Raichu",
-    "Name_CT": "雷丘",
-    "HP": 60,
-    "Atk": 90,
-    "Def": 55,
-    "SpAtk": 90,
-    "SpDef": 80,
-    "Speed": 100,
-    "Type": ["Electric"]
-  },
-  {
-    "Pno": 27,
-    "Name": "Sandshrew",
-    "Name_CT": "穿山鼠",
-    "HP": 50,
-    "Atk": 75,
-    "Def": 85,
-    "SpAtk": 20,
-    "SpDef": 30,
-    "Speed": 40,
-    "Type": ["Ground"]
-  },
-  {
-    "Pno": 28,
-    "Name": "Sandslash",
-    "Name_CT": "穿山王",
-    "HP": 75,
-    "Atk": 100,
-    "Def": 110,
-    "SpAtk": 45,
-    "SpDef": 55,
-    "Speed": 65,
-    "Type": ["Ground"]
-  },
-  {
-    "Pno": 29,
-    "Name": "Nidoran♀",
-    "Name_CT": "尼多蘭",
-    "HP": 55,
-    "Atk": 47,
-    "Def": 52,
-    "SpAtk": 40,
-    "SpDef": 40,
-    "Speed": 41,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 30,
-    "Name": "Nidorina",
-    "Name_CT": "尼多娜",
-    "HP": 70,
-    "Atk": 62,
-    "Def": 67,
-    "SpAtk": 55,
-    "SpDef": 55,
-    "Speed": 56,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 31,
-    "Name": "Nidoqueen",
-    "Name_CT": "尼多后",
-    "HP": 90,
-    "Atk": 82,
-    "Def": 87,
-    "SpAtk": 75,
-    "SpDef": 85,
-    "Speed": 76,
-    "Type": ["Poison", "Ground"]
-  },
-  {
-    "Pno": 32,
-    "Name": "Nidoran♂",
-    "Name_CT": "尼多朗",
-    "HP": 46,
-    "Atk": 57,
-    "Def": 40,
-    "SpAtk": 40,
-    "SpDef": 40,
-    "Speed": 50,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 33,
-    "Name": "Nidorino",
-    "Name_CT": "尼多力諾",
-    "HP": 61,
-    "Atk": 72,
-    "Def": 57,
-    "SpAtk": 55,
-    "SpDef": 55,
-    "Speed": 65,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 34,
-    "Name": "Nidoking",
-    "Name_CT": "尼多王",
-    "HP": 81,
-    "Atk": 92,
-    "Def": 77,
-    "SpAtk": 85,
-    "SpDef": 75,
-    "Speed": 85,
-    "Type": ["Poison", "Ground"]
-  },
-  {
-    "Pno": 35,
-    "Name": "Clefairy",
-    "Name_CT": "皮皮",
-    "HP": 70,
-    "Atk": 45,
-    "Def": 48,
-    "SpAtk": 60,
-    "SpDef": 65,
-    "Speed": 35,
-    "Type": ["Fairy"]
-  },
-  {
-    "Pno": 36,
-    "Name": "Clefable",
-    "Name_CT": "皮可西",
-    "HP": 95,
-    "Atk": 70,
-    "Def": 73,
-    "SpAtk": 85,
-    "SpDef": 90,
-    "Speed": 60,
-    "Type": ["Fairy"]
-  },
-  {
-    "Pno": 37,
-    "Name": "Vulpix",
-    "Name_CT": "六尾",
-    "HP": 38,
-    "Atk": 41,
-    "Def": 40,
-    "SpAtk": 50,
-    "SpDef": 65,
-    "Speed": 65,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 38,
-    "Name": "Ninetales",
-    "Name_CT": "九尾",
-    "HP": 73,
-    "Atk": 76,
-    "Def": 75,
-    "SpAtk": 81,
-    "SpDef": 100,
-    "Speed": 100,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 39,
-    "Name": "Jigglypuff",
-    "Name_CT": "胖丁",
-    "HP": 115,
-    "Atk": 45,
-    "Def": 20,
-    "SpAtk": 45,
-    "SpDef": 25,
-    "Speed": 20,
-    "Type": ["Normal", "Fairy"]
-  },
-  {
-    "Pno": 40,
-    "Name": "Wigglytuff",
-    "Name_CT": "胖可丁",
-    "HP": 140,
-    "Atk": 70,
-    "Def": 45,
-    "SpAtk": 75,
-    "SpDef": 50,
-    "Speed": 45,
-    "Type": ["Normal", "Fairy"]
-  },
-  {
-    "Pno": 41,
-    "Name": "Zubat",
-    "Name_CT": "超音蝠",
-    "HP": 40,
-    "Atk": 45,
-    "Def": 35,
-    "SpAtk": 30,
-    "SpDef": 40,
-    "Speed": 55,
-    "Type": ["Poison", "Flying"]
-  },
-  {
-    "Pno": 42,
-    "Name": "Golbat",
-    "Name_CT": "大嘴蝠",
-    "HP": 75,
-    "Atk": 80,
-    "Def": 70,
-    "SpAtk": 65,
-    "SpDef": 75,
-    "Speed": 90,
-    "Type": ["Poison", "Flying"]
-  },
-  {
-    "Pno": 43,
-    "Name": "Oddish",
-    "Name_CT": "走路草",
-    "HP": 45,
-    "Atk": 50,
-    "Def": 55,
-    "SpAtk": 75,
-    "SpDef": 65,
-    "Speed": 30,
-    "Type": ["Grass", "Poison"]
-  },
-  {
-    "Pno": 44,
-    "Name": "Gloom",
-    "Name_CT": "臭臭花",
-    "HP": 60,
-    "Atk": 65,
-    "Def": 70,
-    "SpAtk": 85,
-    "SpDef": 75,
-    "Speed": 40,
-    "Type": ["Grass", "Poison"]
-  },
-  {
-    "Pno": 45,
-    "Name": "Vileplume",
-    "Name_CT": "霸王花",
-    "HP": 75,
-    "Atk": 80,
-    "Def": 85,
-    "SpAtk": 100,
-    "SpDef": 90,
-    "Speed": 50,
-    "Type": ["Grass", "Poison"]
-  },
-  {
-    "Pno": 46,
-    "Name": "Paras",
-    "Name_CT": "派拉斯",
-    "HP": 35,
-    "Atk": 70,
-    "Def": 55,
-    "SpAtk": 45,
-    "SpDef": 55,
-    "Speed": 25,
-    "Type": ["Bug", "Grass"]
-  },
-  {
-    "Pno": 47,
-    "Name": "Parasect",
-    "Name_CT": "派拉斯特",
-    "HP": 60,
-    "Atk": 95,
-    "Def": 80,
-    "SpAtk": 60,
-    "SpDef": 80,
-    "Speed": 30,
-    "Type": ["Bug", "Grass"]
-  },
-  {
-    "Pno": 48,
-    "Name": "Venonat",
-    "Name_CT": "毛球",
-    "HP": 60,
-    "Atk": 55,
-    "Def": 50,
-    "SpAtk": 40,
-    "SpDef": 55,
-    "Speed": 45,
-    "Type": ["Bug", "Poison"]
-  },
-  {
-    "Pno": 49,
-    "Name": "Venomoth",
-    "Name_CT": "摩魯蛾",
-    "HP": 70,
-    "Atk": 65,
-    "Def": 60,
-    "SpAtk": 90,
-    "SpDef": 75,
-    "Speed": 90,
-    "Type": ["Bug", "Poison"]
-  },
-  {
-    "Pno": 50,
-    "Name": "Diglett",
-    "Name_CT": "地鼠",
-    "HP": 10,
-    "Atk": 55,
-    "Def": 25,
-    "SpAtk": 35,
-    "SpDef": 45,
-    "Speed": 95,
-    "Type": ["Ground"]
-  },
-  {
-    "Pno": 51,
-    "Name": "Dugtrio",
-    "Name_CT": "三地鼠",
-    "HP": 35,
-    "Atk": 80,
-    "Def": 50,
-    "SpAtk": 50,
-    "SpDef": 70,
-    "Speed": 120,
-    "Type": ["Ground"]
-  },
-  {
-    "Pno": 52,
-    "Name": "Meowth",
-    "Name_CT": "喵喵",
-    "HP": 40,
-    "Atk": 45,
-    "Def": 35,
-    "SpAtk": 40,
-    "SpDef": 40,
-    "Speed": 90,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 53,
-    "Name": "Persian",
-    "Name_CT": "貓老大",
-    "HP": 65,
-    "Atk": 70,
-    "Def": 60,
-    "SpAtk": 65,
-    "SpDef": 65,
-    "Speed": 115,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 54,
-    "Name": "Psyduck",
-    "Name_CT": "可達鴨",
-    "HP": 50,
-    "Atk": 52,
-    "Def": 48,
-    "SpAtk": 65,
-    "SpDef": 50,
-    "Speed": 55,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 55,
-    "Name": "Golduck",
-    "Name_CT": "哥達鴨",
-    "HP": 80,
-    "Atk": 82,
-    "Def": 78,
-    "SpAtk": 95,
-    "SpDef": 80,
-    "Speed": 85,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 56,
-    "Name": "Mankey",
-    "Name_CT": "猴怪",
-    "HP": 40,
-    "Atk": 80,
-    "Def": 35,
-    "SpAtk": 35,
-    "SpDef": 45,
-    "Speed": 70,
-    "Type": ["Fighting"]
-  },
-  {
-    "Pno": 57,
-    "Name": "Primeape",
-    "Name_CT": "火爆猴",
-    "HP": 65,
-    "Atk": 105,
-    "Def": 60,
-    "SpAtk": 60,
-    "SpDef": 70,
-    "Speed": 95,
-    "Type": ["Fighting"]
-  },
-  {
-    "Pno": 58,
-    "Name": "Growlithe",
-    "Name_CT": "卡蒂狗",
-    "HP": 55,
-    "Atk": 70,
-    "Def": 45,
-    "SpAtk": 70,
-    "SpDef": 50,
-    "Speed": 60,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 59,
-    "Name": "Arcanine",
-    "Name_CT": "風速狗",
-    "HP": 90,
-    "Atk": 110,
-    "Def": 80,
-    "SpAtk": 100,
-    "SpDef": 80,
-    "Speed": 95,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 60,
-    "Name": "Poliwag",
-    "Name_CT": "蚊香蝌蚪",
-    "HP": 40,
-    "Atk": 50,
-    "Def": 40,
-    "SpAtk": 40,
-    "SpDef": 40,
-    "Speed": 90,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 61,
-    "Name": "Poliwhirl",
-    "Name_CT": "蚊香君",
-    "HP": 65,
-    "Atk": 65,
-    "Def": 65,
-    "SpAtk": 50,
-    "SpDef": 50,
-    "Speed": 90,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 62,
-    "Name": "Poliwrath",
-    "Name_CT": "蚊香泳士",
-    "HP": 90,
-    "Atk": 85,
-    "Def": 95,
-    "SpAtk": 70,
-    "SpDef": 90,
-    "Speed": 70,
-    "Type": ["Water", "Fighting"]
-  },
-  {
-    "Pno": 63,
-    "Name": "Abra",
-    "Name_CT": "凱西",
-    "HP": 25,
-    "Atk": 20,
-    "Def": 15,
-    "SpAtk": 105,
-    "SpDef": 55,
-    "Speed": 90,
-    "Type": ["Psychic"]
-  },
-  {
-    "Pno": 64,
-    "Name": "Kadabra",
-    "Name_CT": "勇基拉",
-    "HP": 40,
-    "Atk": 35,
-    "Def": 30,
-    "SpAtk": 120,
-    "SpDef": 70,
-    "Speed": 105,
-    "Type": ["Psychic"]
-  },
-  {
-    "Pno": 65,
-    "Name": "Alakazam",
-    "Name_CT": "胡地",
-    "HP": 55,
-    "Atk": 50,
-    "Def": 45,
-    "SpAtk": 135,
-    "SpDef": 85,
-    "Speed": 120,
-    "Type": ["Psychic"]
-  },
-  {
-    "Pno": 66,
-    "Name": "Machop",
-    "Name_CT": "腕力",
-    "HP": 70,
-    "Atk": 80,
-    "Def": 50,
-    "SpAtk": 35,
-    "SpDef": 35,
-    "Speed": 35,
-    "Type": ["Fighting"]
-  },
-  {
-    "Pno": 67,
-    "Name": "Machoke",
-    "Name_CT": "豪力",
-    "HP": 80,
-    "Atk": 100,
-    "Def": 70,
-    "SpAtk": 50,
-    "SpDef": 60,
-    "Speed": 45,
-    "Type": ["Fighting"]
-  },
-  {
-    "Pno": 68,
-    "Name": "Machamp",
-    "Name_CT": "怪力",
-    "HP": 90,
-    "Atk": 130,
-    "Def": 80,
-    "SpAtk": 65,
-    "SpDef": 85,
-    "Speed": 55,
-    "Type": ["Fighting"]
-  },
-  {
-    "Pno": 69,
-    "Name": "Bellsprout",
-    "Name_CT": "喇叭芽",
-    "HP": 50,
-    "Atk": 75,
-    "Def": 35,
-    "SpAtk": 70,
-    "SpDef": 30,
-    "Speed": 40,
-    "Type": ["Grass", "Poison"]
-  },
-  {
-    "Pno": 70,
-    "Name": "Weepinbell",
-    "Name_CT": "口呆花",
-    "HP": 65,
-    "Atk": 90,
-    "Def": 50,
-    "SpAtk": 85,
-    "SpDef": 45,
-    "Speed": 55,
-    "Type": ["Grass", "Poison"]
-  },
-  {
-    "Pno": 71,
-    "Name": "Victreebel",
-    "Name_CT": "大食花",
-    "HP": 80,
-    "Atk": 105,
-    "Def": 65,
-    "SpAtk": 100,
-    "SpDef": 60,
-    "Speed": 70,
-    "Type": ["Grass", "Poison"]
-  },
-  {
-    "Pno": 72,
-    "Name": "Tentacool",
-    "Name_CT": "瑪瑙水母",
-    "HP": 40,
-    "Atk": 40,
-    "Def": 35,
-    "SpAtk": 50,
-    "SpDef": 100,
-    "Speed": 70,
-    "Type": ["Water", "Poison"]
-  },
-  {
-    "Pno": 73,
-    "Name": "Tentacruel",
-    "Name_CT": "毒刺水母",
-    "HP": 80,
-    "Atk": 70,
-    "Def": 65,
-    "SpAtk": 80,
-    "SpDef": 120,
-    "Speed": 100,
-    "Type": ["Water", "Poison"]
-  },
-  {
-    "Pno": 74,
-    "Name": "Geodude",
-    "Name_CT": "小拳石",
-    "HP": 40,
-    "Atk": 80,
-    "Def": 100,
-    "SpAtk": 30,
-    "SpDef": 30,
-    "Speed": 20,
-    "Type": ["Rock", "Ground"]
-  },
-  {
-    "Pno": 75,
-    "Name": "Graveler",
-    "Name_CT": "隆隆石",
-    "HP": 55,
-    "Atk": 95,
-    "Def": 115,
-    "SpAtk": 45,
-    "SpDef": 45,
-    "Speed": 35,
-    "Type": ["Rock", "Ground"]
-  },
-  {
-    "Pno": 76,
-    "Name": "Golem",
-    "Name_CT": "隆隆岩",
-    "HP": 80,
-    "Atk": 110,
-    "Def": 130,
-    "SpAtk": 55,
-    "SpDef": 65,
-    "Speed": 45,
-    "Type": ["Rock", "Ground"]
-  },
-  {
-    "Pno": 77,
-    "Name": "Ponyta",
-    "Name_CT": "小火馬",
-    "HP": 50,
-    "Atk": 85,
-    "Def": 55,
-    "SpAtk": 65,
-    "SpDef": 65,
-    "Speed": 90,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 78,
-    "Name": "Rapidash",
-    "Name_CT": "烈焰馬",
-    "HP": 65,
-    "Atk": 100,
-    "Def": 70,
-    "SpAtk": 80,
-    "SpDef": 80,
-    "Speed": 105,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 79,
-    "Name": "Slowpoke",
-    "Name_CT": "呆呆獸",
-    "HP": 90,
-    "Atk": 65,
-    "Def": 65,
-    "SpAtk": 40,
-    "SpDef": 40,
-    "Speed": 15,
-    "Type": ["Water", "Psychic"]
-  },
-  {
-    "Pno": 80,
-    "Name": "Slowbro",
-    "Name_CT": "呆殼獸",
-    "HP": 95,
-    "Atk": 75,
-    "Def": 110,
-    "SpAtk": 100,
-    "SpDef": 80,
-    "Speed": 30,
-    "Type": ["Water", "Psychic"]
-  },
-  {
-    "Pno": 81,
-    "Name": "Magnemite",
-    "Name_CT": "小磁怪",
-    "HP": 25,
-    "Atk": 35,
-    "Def": 70,
-    "SpAtk": 95,
-    "SpDef": 55,
-    "Speed": 45,
-    "Type": ["Electric", "Steel"]
-  },
-  {
-    "Pno": 82,
-    "Name": "Magneton",
-    "Name_CT": "三合一磁怪",
-    "HP": 50,
-    "Atk": 60,
-    "Def": 95,
-    "SpAtk": 120,
-    "SpDef": 70,
-    "Speed": 70,
-    "Type": ["Electric", "Steel"]
-  },
-  {
-    "Pno": 83,
-    "Name": "Farfetch'd",
-    "Name_CT": "大蔥鴨",
-    "HP": 52,
-    "Atk": 65,
-    "Def": 55,
-    "SpAtk": 58,
-    "SpDef": 62,
-    "Speed": 60,
-    "Type": ["Normal", "Flying"]
-  },
-  {
-    "Pno": 84,
-    "Name": "Doduo",
-    "Name_CT": "嘟嘟",
-    "HP": 35,
-    "Atk": 85,
-    "Def": 45,
-    "SpAtk": 35,
-    "SpDef": 35,
-    "Speed": 75,
-    "Type": ["Normal", "Flying"]
-  },
-  {
-    "Pno": 85,
-    "Name": "Dodrio",
-    "Name_CT": "嘟嘟利",
-    "HP": 60,
-    "Atk": 110,
-    "Def": 70,
-    "SpAtk": 60,
-    "SpDef": 60,
-    "Speed": 100,
-    "Type": ["Normal", "Flying"]
-  },
-  {
-    "Pno": 86,
-    "Name": "Seel",
-    "Name_CT": "小海獅",
-    "HP": 65,
-    "Atk": 45,
-    "Def": 55,
-    "SpAtk": 45,
-    "SpDef": 70,
-    "Speed": 45,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 87,
-    "Name": "Dewgong",
-    "Name_CT": "白海獅",
-    "HP": 90,
-    "Atk": 70,
-    "Def": 80,
-    "SpAtk": 70,
-    "SpDef": 95,
-    "Speed": 70,
-    "Type": ["Water", "Ice"]
-  },
-  {
-    "Pno": 88,
-    "Name": "Grimer",
-    "Name_CT": "臭泥",
-    "HP": 80,
-    "Atk": 80,
-    "Def": 50,
-    "SpAtk": 40,
-    "SpDef": 50,
-    "Speed": 25,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 89,
-    "Name": "Muk",
-    "Name_CT": "臭臭泥",
-    "HP": 105,
-    "Atk": 105,
-    "Def": 75,
-    "SpAtk": 65,
-    "SpDef": 100,
-    "Speed": 50,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 90,
-    "Name": "Shellder",
-    "Name_CT": "大舌貝",
-    "HP": 30,
-    "Atk": 65,
-    "Def": 100,
-    "SpAtk": 45,
-    "SpDef": 25,
-    "Speed": 40,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 91,
-    "Name": "Cloyster",
-    "Name_CT": "刺甲貝",
-    "HP": 50,
-    "Atk": 95,
-    "Def": 180,
-    "SpAtk": 85,
-    "SpDef": 45,
-    "Speed": 70,
-    "Type": ["Water", "Ice"]
-  },
-  {
-    "Pno": 92,
-    "Name": "Gastly",
-    "Name_CT": "鬼斯",
-    "HP": 30,
-    "Atk": 35,
-    "Def": 30,
-    "SpAtk": 100,
-    "SpDef": 35,
-    "Speed": 80,
-    "Type": ["Ghost", "Poison"]
-  },
-  {
-    "Pno": 93,
-    "Name": "Haunter",
-    "Name_CT": "鬼斯通",
-    "HP": 45,
-    "Atk": 50,
-    "Def": 45,
-    "SpAtk": 115,
-    "SpDef": 55,
-    "Speed": 95,
-    "Type": ["Ghost", "Poison"]
-  },
-  {
-    "Pno": 94,
-    "Name": "Gengar",
-    "Name_CT": "耿鬼",
-    "HP": 60,
-    "Atk": 65,
-    "Def": 60,
-    "SpAtk": 130,
-    "SpDef": 75,
-    "Speed": 110,
-    "Type": ["Ghost", "Poison"]
-  },
-  {
-    "Pno": 95,
-    "Name": "Onix",
-    "Name_CT": "大岩蛇",
-    "HP": 35,
-    "Atk": 45,
-    "Def": 160,
-    "SpAtk": 30,
-    "SpDef": 45,
-    "Speed": 70,
-    "Type": ["Rock", "Ground"]
-  },
-  {
-    "Pno": 96,
-    "Name": "Drowzee",
-    "Name_CT": "催眠貘",
-    "HP": 60,
-    "Atk": 48,
-    "Def": 45,
-    "SpAtk": 43,
-    "SpDef": 90,
-    "Speed": 42,
-    "Type": ["Psychic"]
-  },
-  {
-    "Pno": 97,
-    "Name": "Hypno",
-    "Name_CT": "引夢貘人",
-    "HP": 85,
-    "Atk": 73,
-    "Def": 70,
-    "SpAtk": 73,
-    "SpDef": 115,
-    "Speed": 67,
-    "Type": ["Psychic"]
-  },
-  {
-    "Pno": 98,
-    "Name": "Krabby",
-    "Name_CT": "大鉗蟹",
-    "HP": 30,
-    "Atk": 105,
-    "Def": 90,
-    "SpAtk": 25,
-    "SpDef": 25,
-    "Speed": 50,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 99,
-    "Name": "Kingler",
-    "Name_CT": "巨鉗蟹",
-    "HP": 55,
-    "Atk": 130,
-    "Def": 115,
-    "SpAtk": 50,
-    "SpDef": 50,
-    "Speed": 75,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 100,
-    "Name": "Voltorb",
-    "Name_CT": "霹靂電球",
-    "HP": 40,
-    "Atk": 30,
-    "Def": 50,
-    "SpAtk": 55,
-    "SpDef": 55,
-    "Speed": 100,
-    "Type": ["Electric"]
-  },
-  {
-    "Pno": 101,
-    "Name": "Electrode",
-    "Name_CT": "頑皮雷彈",
-    "HP": 60,
-    "Atk": 50,
-    "Def": 70,
-    "SpAtk": 80,
-    "SpDef": 80,
-    "Speed": 140,
-    "Type": ["Electric"]
-  },
-  {
-    "Pno": 102,
-    "Name": "Exeggcute",
-    "Name_CT": "蛋蛋",
-    "HP": 60,
-    "Atk": 40,
-    "Def": 80,
-    "SpAtk": 60,
-    "SpDef": 45,
-    "Speed": 40,
-    "Type": ["Grass", "Psychic"]
-  },
-  {
-    "Pno": 103,
-    "Name": "Exeggutor",
-    "Name_CT": "椰蛋樹",
-    "HP": 95,
-    "Atk": 95,
-    "Def": 85,
-    "SpAtk": 125,
-    "SpDef": 65,
-    "Speed": 55,
-    "Type": ["Grass", "Psychic"]
-  },
-  {
-    "Pno": 104,
-    "Name": "Cubone",
-    "Name_CT": "卡拉卡拉",
-    "HP": 50,
-    "Atk": 50,
-    "Def": 95,
-    "SpAtk": 40,
-    "SpDef": 50,
-    "Speed": 35,
-    "Type": ["Ground"]
-  },
-  {
-    "Pno": 105,
-    "Name": "Marowak",
-    "Name_CT": "嘎啦嘎啦",
-    "HP": 60,
-    "Atk": 80,
-    "Def": 110,
-    "SpAtk": 50,
-    "SpDef": 80,
-    "Speed": 45,
-    "Type": ["Ground"]
-  },
-  {
-    "Pno": 106,
-    "Name": "Hitmonlee",
-    "Name_CT": "飛腿郎",
-    "HP": 50,
-    "Atk": 120,
-    "Def": 53,
-    "SpAtk": 35,
-    "SpDef": 110,
-    "Speed": 87,
-    "Type": ["Fighting"]
-  },
-  {
-    "Pno": 107,
-    "Name": "Hitmonchan",
-    "Name_CT": "快拳郎",
-    "HP": 50,
-    "Atk": 105,
-    "Def": 79,
-    "SpAtk": 35,
-    "SpDef": 110,
-    "Speed": 76,
-    "Type": ["Fighting"]
-  },
-  {
-    "Pno": 108,
-    "Name": "Lickitung",
-    "Name_CT": "大舌頭",
-    "HP": 90,
-    "Atk": 55,
-    "Def": 75,
-    "SpAtk": 60,
-    "SpDef": 75,
-    "Speed": 30,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 109,
-    "Name": "Koffing",
-    "Name_CT": "瓦斯彈",
-    "HP": 40,
-    "Atk": 65,
-    "Def": 95,
-    "SpAtk": 60,
-    "SpDef": 45,
-    "Speed": 35,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 110,
-    "Name": "Weezing",
-    "Name_CT": "雙彈瓦斯",
-    "HP": 65,
-    "Atk": 90,
-    "Def": 120,
-    "SpAtk": 85,
-    "SpDef": 70,
-    "Speed": 60,
-    "Type": ["Poison"]
-  },
-  {
-    "Pno": 111,
-    "Name": "Rhyhorn",
-    "Name_CT": "獨角犀牛",
-    "HP": 80,
-    "Atk": 85,
-    "Def": 95,
-    "SpAtk": 30,
-    "SpDef": 30,
-    "Speed": 25,
-    "Type": ["Ground", "Rock"]
-  },
-  {
-    "Pno": 112,
-    "Name": "Rhydon",
-    "Name_CT": "鑽角犀獸",
-    "HP": 105,
-    "Atk": 130,
-    "Def": 120,
-    "SpAtk": 45,
-    "SpDef": 45,
-    "Speed": 40,
-    "Type": ["Ground", "Rock"]
-  },
-  {
-    "Pno": 113,
-    "Name": "Chansey",
-    "Name_CT": "吉利蛋",
-    "HP": 250,
-    "Atk": 5,
-    "Def": 5,
-    "SpAtk": 5,
-    "SpDef": 35,
-    "Speed": 50,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 114,
-    "Name": "Tangela",
-    "Name_CT": "蔓藤怪",
-    "HP": 65,
-    "Atk": 55,
-    "Def": 115,
-    "SpAtk": 100,
-    "SpDef": 40,
-    "Speed": 60,
-    "Type": ["Grass"]
-  },
-  {
-    "Pno": 115,
-    "Name": "Kangaskhan",
-    "Name_CT": "袋獸",
-    "HP": 105,
-    "Atk": 95,
-    "Def": 80,
-    "SpAtk": 40,
-    "SpDef": 80,
-    "Speed": 90,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 116,
-    "Name": "Horsea",
-    "Name_CT": "墨海馬",
-    "HP": 30,
-    "Atk": 40,
-    "Def": 70,
-    "SpAtk": 70,
-    "SpDef": 25,
-    "Speed": 60,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 117,
-    "Name": "Seadra",
-    "Name_CT": "海刺龍",
-    "HP": 55,
-    "Atk": 65,
-    "Def": 95,
-    "SpAtk": 95,
-    "SpDef": 45,
-    "Speed": 85,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 118,
-    "Name": "Goldeen",
-    "Name_CT": "角金魚",
-    "HP": 45,
-    "Atk": 67,
-    "Def": 60,
-    "SpAtk": 35,
-    "SpDef": 50,
-    "Speed": 63,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 119,
-    "Name": "Seaking",
-    "Name_CT": "金魚王",
-    "HP": 80,
-    "Atk": 92,
-    "Def": 65,
-    "SpAtk": 65,
-    "SpDef": 80,
-    "Speed": 68,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 120,
-    "Name": "Staryu",
-    "Name_CT": "海星星",
-    "HP": 30,
-    "Atk": 45,
-    "Def": 55,
-    "SpAtk": 70,
-    "SpDef": 55,
-    "Speed": 85,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 121,
-    "Name": "Starmie",
-    "Name_CT": "寶石海星",
-    "HP": 60,
-    "Atk": 75,
-    "Def": 85,
-    "SpAtk": 100,
-    "SpDef": 85,
-    "Speed": 115,
-    "Type": ["Water", "Psychic"]
-  },
-  {
-    "Pno": 122,
-    "Name": "Mr.Mime",
-    "Name_CT": "魔牆人偶",
-    "HP": 40,
-    "Atk": 45,
-    "Def": 65,
-    "SpAtk": 100,
-    "SpDef": 120,
-    "Speed": 90,
-    "Type": ["Psychic", "Fairy"]
-  },
-  {
-    "Pno": 123,
-    "Name": "Scyther",
-    "Name_CT": "飛天螳螂",
-    "HP": 70,
-    "Atk": 110,
-    "Def": 80,
-    "SpAtk": 55,
-    "SpDef": 80,
-    "Speed": 105,
-    "Type": ["Bug", "Flying"]
-  },
-  {
-    "Pno": 124,
-    "Name": "Jynx",
-    "Name_CT": "迷唇姐",
-    "HP": 65,
-    "Atk": 50,
-    "Def": 35,
-    "SpAtk": 115,
-    "SpDef": 95,
-    "Speed": 95,
-    "Type": ["Ice", "Psychic"]
-  },
-  {
-    "Pno": 125,
-    "Name": "Electabuzz",
-    "Name_CT": "電擊獸",
-    "HP": 65,
-    "Atk": 83,
-    "Def": 57,
-    "SpAtk": 95,
-    "SpDef": 85,
-    "Speed": 105,
-    "Type": ["Electric"]
-  },
-  {
-    "Pno": 126,
-    "Name": "Magmar",
-    "Name_CT": "鴨嘴火獸",
-    "HP": 65,
-    "Atk": 95,
-    "Def": 57,
-    "SpAtk": 100,
-    "SpDef": 85,
-    "Speed": 93,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 127,
-    "Name": "Pinsir",
-    "Name_CT": "凱羅斯",
-    "HP": 65,
-    "Atk": 125,
-    "Def": 100,
-    "SpAtk": 55,
-    "SpDef": 70,
-    "Speed": 85,
-    "Type": ["Bug"]
-  },
-  {
-    "Pno": 128,
-    "Name": "Tauros",
-    "Name_CT": "肯泰羅",
-    "HP": 75,
-    "Atk": 100,
-    "Def": 95,
-    "SpAtk": 40,
-    "SpDef": 70,
-    "Speed": 110,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 129,
-    "Name": "Magikarp",
-    "Name_CT": "鯉魚王",
-    "HP": 20,
-    "Atk": 10,
-    "Def": 55,
-    "SpAtk": 15,
-    "SpDef": 20,
-    "Speed": 80,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 130,
-    "Name": "Gyarados",
-    "Name_CT": "暴鯉龍",
-    "HP": 95,
-    "Atk": 125,
-    "Def": 79,
-    "SpAtk": 60,
-    "SpDef": 100,
-    "Speed": 81,
-    "Type": ["Water", "Flying"]
-  },
-  {
-    "Pno": 131,
-    "Name": "Lapras",
-    "Name_CT": "拉普拉斯",
-    "HP": 130,
-    "Atk": 85,
-    "Def": 80,
-    "SpAtk": 85,
-    "SpDef": 95,
-    "Speed": 60,
-    "Type": ["Water", "Ice"]
-  },
-  {
-    "Pno": 132,
-    "Name": "Ditto",
-    "Name_CT": "百變怪",
-    "HP": 48,
-    "Atk": 48,
-    "Def": 48,
-    "SpAtk": 48,
-    "SpDef": 48,
-    "Speed": 48,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 133,
-    "Name": "Eevee",
-    "Name_CT": "伊布",
-    "HP": 55,
-    "Atk": 55,
-    "Def": 50,
-    "SpAtk": 45,
-    "SpDef": 65,
-    "Speed": 55,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 134,
-    "Name": "Vaporeon",
-    "Name_CT": "水伊布",
-    "HP": 130,
-    "Atk": 65,
-    "Def": 60,
-    "SpAtk": 110,
-    "SpDef": 95,
-    "Speed": 65,
-    "Type": ["Water"]
-  },
-  {
-    "Pno": 135,
-    "Name": "Jolteon",
-    "Name_CT": "雷伊布",
-    "HP": 65,
-    "Atk": 65,
-    "Def": 60,
-    "SpAtk": 110,
-    "SpDef": 95,
-    "Speed": 130,
-    "Type": ["Electric"]
-  },
-  {
-    "Pno": 136,
-    "Name": "Flareon",
-    "Name_CT": "火伊布",
-    "HP": 65,
-    "Atk": 130,
-    "Def": 60,
-    "SpAtk": 95,
-    "SpDef": 110,
-    "Speed": 65,
-    "Type": ["Fire"]
-  },
-  {
-    "Pno": 137,
-    "Name": "Porygon",
-    "Name_CT": "多邊獸",
-    "HP": 65,
-    "Atk": 60,
-    "Def": 70,
-    "SpAtk": 85,
-    "SpDef": 75,
-    "Speed": 40,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 138,
-    "Name": "Omanyte",
-    "Name_CT": "菊石獸",
-    "HP": 35,
-    "Atk": 40,
-    "Def": 100,
-    "SpAtk": 90,
-    "SpDef": 55,
-    "Speed": 35,
-    "Type": ["Rock", "Water"]
-  },
-  {
-    "Pno": 139,
-    "Name": "Omastar",
-    "Name_CT": "多刺菊石獸",
-    "HP": 70,
-    "Atk": 60,
-    "Def": 125,
-    "SpAtk": 115,
-    "SpDef": 70,
-    "Speed": 55,
-    "Type": ["Rock", "Water"]
-  },
-  {
-    "Pno": 140,
-    "Name": "Kabuto",
-    "Name_CT": "化石盔",
-    "HP": 30,
-    "Atk": 80,
-    "Def": 90,
-    "SpAtk": 55,
-    "SpDef": 45,
-    "Speed": 55,
-    "Type": ["Rock", "Water"]
-  },
-  {
-    "Pno": 141,
-    "Name": "Kabutops",
-    "Name_CT": "鐮刀盔",
-    "HP": 60,
-    "Atk": 115,
-    "Def": 105,
-    "SpAtk": 65,
-    "SpDef": 70,
-    "Speed": 80,
-    "Type": ["Rock", "Water"]
-  },
-  {
-    "Pno": 142,
-    "Name": "Aerodactyl",
-    "Name_CT": "化石翼龍",
-    "HP": 80,
-    "Atk": 105,
-    "Def": 65,
-    "SpAtk": 60,
-    "SpDef": 75,
-    "Speed": 130,
-    "Type": ["Rock", "Flying"]
-  },
-  {
-    "Pno": 143,
-    "Name": "Snorlax",
-    "Name_CT": "卡比獸",
-    "HP": 160,
-    "Atk": 110,
-    "Def": 65,
-    "SpAtk": 65,
-    "SpDef": 110,
-    "Speed": 30,
-    "Type": ["Normal"]
-  },
-  {
-    "Pno": 144,
-    "Name": "Articuno",
-    "Name_CT": "急凍鳥",
-    "HP": 90,
-    "Atk": 85,
-    "Def": 100,
-    "SpAtk": 95,
-    "SpDef": 125,
-    "Speed": 85,
-    "Type": ["Ice", "Flying"]
-  },
-  {
-    "Pno": 145,
-    "Name": "Zapdos",
-    "Name_CT": "閃電鳥",
-    "HP": 90,
-    "Atk": 90,
-    "Def": 85,
-    "SpAtk": 125,
-    "SpDef": 90,
-    "Speed": 100,
-    "Type": ["Electric", "Flying"]
-  },
-  {
-    "Pno": 146,
-    "Name": "Moltres",
-    "Name_CT": "火焰鳥",
-    "HP": 90,
-    "Atk": 100,
-    "Def": 90,
-    "SpAtk": 125,
-    "SpDef": 85,
-    "Speed": 90,
-    "Type": ["Fire", "Flying"]
-  },
-  {
-    "Pno": 147,
-    "Name": "Dratini",
-    "Name_CT": "迷你龍",
-    "HP": 41,
-    "Atk": 64,
-    "Def": 45,
-    "SpAtk": 50,
-    "SpDef": 50,
-    "Speed": 50,
-    "Type": ["Dragon"]
-  },
-  {
-    "Pno": 148,
-    "Name": "Dragonair",
-    "Name_CT": "哈克龍",
-    "HP": 61,
-    "Atk": 84,
-    "Def": 65,
-    "SpAtk": 70,
-    "SpDef": 70,
-    "Speed": 70,
-    "Type": ["Dragon"]
-  },
-  {
-    "Pno": 149,
-    "Name": "Dragonite",
-    "Name_CT": "快龍",
-    "HP": 91,
-    "Atk": 134,
-    "Def": 95,
-    "SpAtk": 100,
-    "SpDef": 100,
-    "Speed": 80,
-    "Type": ["Dragon", "Flying"]
-  },
-  {
-    "Pno": 150,
-    "Name": "Mewtwo",
-    "Name_CT": "超夢",
-    "HP": 106,
-    "Atk": 110,
-    "Def": 90,
-    "SpAtk": 154,
-    "SpDef": 90,
-    "Speed": 130,
-    "Type": ["Psychic"]
-  },
-  {
-    "Pno": 151,
-    "Name": "Mew",
-    "Name_CT": "夢幻",
-    "HP": 100,
-    "Atk": 100,
-    "Def": 100,
-    "SpAtk": 100,
-    "SpDef": 100,
-    "Speed": 100,
-    "Type": ["Psychic"]
-  }
-]
+{
+  "Pokemons": [
+    {
+      "Pno": 1,
+      "Name": "Bulbasaur",
+      "Name_CT": "妙蛙種子",
+      "HP": 45,
+      "Atk": 49,
+      "Def": 49,
+      "SpAtk": 65,
+      "SpDef": 65,
+      "Speed": 45,
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 2,
+      "Name": "Ivysaur",
+      "Name_CT": "妙蛙草",
+      "HP": 60,
+      "Atk": 62,
+      "Def": 63,
+      "SpAtk": 80,
+      "SpDef": 80,
+      "Speed": 60,
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 3,
+      "Name": "Venusaur",
+      "Name_CT": "妙蛙花",
+      "HP": 80,
+      "Atk": 82,
+      "Def": 83,
+      "SpAtk": 100,
+      "SpDef": 100,
+      "Speed": 80,
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 4,
+      "Name": "Charmander",
+      "Name_CT": "小火龍",
+      "HP": 39,
+      "Atk": 52,
+      "Def": 43,
+      "SpAtk": 60,
+      "SpDef": 50,
+      "Speed": 65,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 5,
+      "Name": "Charmeleon",
+      "Name_CT": "火恐龍",
+      "HP": 58,
+      "Atk": 64,
+      "Def": 58,
+      "SpAtk": 80,
+      "SpDef": 65,
+      "Speed": 80,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 6,
+      "Name": "Charizard",
+      "Name_CT": "噴火龍",
+      "HP": 78,
+      "Atk": 84,
+      "Def": 78,
+      "SpAtk": 109,
+      "SpDef": 85,
+      "Speed": 100,
+      "Type": [
+        "Fire",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 7,
+      "Name": "Squirtle",
+      "Name_CT": "傑尼龜",
+      "HP": 44,
+      "Atk": 48,
+      "Def": 65,
+      "SpAtk": 50,
+      "SpDef": 64,
+      "Speed": 43,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 8,
+      "Name": "Wartortle",
+      "Name_CT": "卡咪龜",
+      "HP": 59,
+      "Atk": 63,
+      "Def": 80,
+      "SpAtk": 65,
+      "SpDef": 80,
+      "Speed": 58,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 9,
+      "Name": "Blastoise",
+      "Name_CT": "水箭龜",
+      "HP": 79,
+      "Atk": 83,
+      "Def": 100,
+      "SpAtk": 85,
+      "SpDef": 105,
+      "Speed": 78,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 10,
+      "Name": "Caterpie",
+      "Name_CT": "綠毛蟲",
+      "HP": 45,
+      "Atk": 30,
+      "Def": 35,
+      "SpAtk": 20,
+      "SpDef": 20,
+      "Speed": 45,
+      "Type": [
+        "Bug"
+      ]
+    },
+    {
+      "Pno": 11,
+      "Name": "Metapod",
+      "Name_CT": "鐵甲蛹",
+      "HP": 50,
+      "Atk": 20,
+      "Def": 55,
+      "SpAtk": 25,
+      "SpDef": 25,
+      "Speed": 30,
+      "Type": [
+        "Bug"
+      ]
+    },
+    {
+      "Pno": 12,
+      "Name": "Butterfree",
+      "Name_CT": "巴大蝶",
+      "HP": 60,
+      "Atk": 45,
+      "Def": 50,
+      "SpAtk": 80,
+      "SpDef": 80,
+      "Speed": 70,
+      "Type": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 13,
+      "Name": "Weedle",
+      "Name_CT": "獨角蟲",
+      "HP": 40,
+      "Atk": 35,
+      "Def": 30,
+      "SpAtk": 20,
+      "SpDef": 20,
+      "Speed": 50,
+      "Type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 14,
+      "Name": "Kakuna",
+      "Name_CT": "鐵殼蛹",
+      "HP": 45,
+      "Atk": 25,
+      "Def": 50,
+      "SpAtk": 25,
+      "SpDef": 25,
+      "Speed": 35,
+      "Type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 15,
+      "Name": "Beedrill",
+      "Name_CT": "大針蜂",
+      "HP": 65,
+      "Atk": 80,
+      "Def": 40,
+      "SpAtk": 45,
+      "SpDef": 80,
+      "Speed": 75,
+      "Type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 16,
+      "Name": "Pidgey",
+      "Name_CT": "波波",
+      "HP": 40,
+      "Atk": 45,
+      "Def": 40,
+      "SpAtk": 35,
+      "SpDef": 35,
+      "Speed": 56,
+      "Type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 17,
+      "Name": "Pidgeotto",
+      "Name_CT": "比比鳥",
+      "HP": 63,
+      "Atk": 60,
+      "Def": 55,
+      "SpAtk": 50,
+      "SpDef": 50,
+      "Speed": 71,
+      "Type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 18,
+      "Name": "Pidgeot",
+      "Name_CT": "大比鳥",
+      "HP": 83,
+      "Atk": 80,
+      "Def": 75,
+      "SpAtk": 70,
+      "SpDef": 70,
+      "Speed": 91,
+      "Type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 19,
+      "Name": "Rattata",
+      "Name_CT": "小拉達",
+      "HP": 30,
+      "Atk": 56,
+      "Def": 35,
+      "SpAtk": 25,
+      "SpDef": 35,
+      "Speed": 72,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 20,
+      "Name": "Raticate",
+      "Name_CT": "拉達",
+      "HP": 55,
+      "Atk": 81,
+      "Def": 60,
+      "SpAtk": 50,
+      "SpDef": 70,
+      "Speed": 97,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 21,
+      "Name": "Spearow",
+      "Name_CT": "烈雀",
+      "HP": 40,
+      "Atk": 60,
+      "Def": 30,
+      "SpAtk": 31,
+      "SpDef": 31,
+      "Speed": 70,
+      "Type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 22,
+      "Name": "Fearow",
+      "Name_CT": "大嘴雀",
+      "HP": 65,
+      "Atk": 90,
+      "Def": 65,
+      "SpAtk": 61,
+      "SpDef": 61,
+      "Speed": 100,
+      "Type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 23,
+      "Name": "Ekans",
+      "Name_CT": "阿柏蛇",
+      "HP": 35,
+      "Atk": 60,
+      "Def": 44,
+      "SpAtk": 40,
+      "SpDef": 54,
+      "Speed": 55,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 24,
+      "Name": "Arbok",
+      "Name_CT": "阿柏怪",
+      "HP": 60,
+      "Atk": 85,
+      "Def": 69,
+      "SpAtk": 65,
+      "SpDef": 79,
+      "Speed": 80,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 25,
+      "Name": "Pikachu",
+      "Name_CT": "皮卡丘",
+      "HP": 35,
+      "Atk": 55,
+      "Def": 30,
+      "SpAtk": 50,
+      "SpDef": 40,
+      "Speed": 90,
+      "Type": [
+        "Electric"
+      ]
+    },
+    {
+      "Pno": 26,
+      "Name": "Raichu",
+      "Name_CT": "雷丘",
+      "HP": 60,
+      "Atk": 90,
+      "Def": 55,
+      "SpAtk": 90,
+      "SpDef": 80,
+      "Speed": 100,
+      "Type": [
+        "Electric"
+      ]
+    },
+    {
+      "Pno": 27,
+      "Name": "Sandshrew",
+      "Name_CT": "穿山鼠",
+      "HP": 50,
+      "Atk": 75,
+      "Def": 85,
+      "SpAtk": 20,
+      "SpDef": 30,
+      "Speed": 40,
+      "Type": [
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 28,
+      "Name": "Sandslash",
+      "Name_CT": "穿山王",
+      "HP": 75,
+      "Atk": 100,
+      "Def": 110,
+      "SpAtk": 45,
+      "SpDef": 55,
+      "Speed": 65,
+      "Type": [
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 29,
+      "Name": "Nidoran♀",
+      "Name_CT": "尼多蘭",
+      "HP": 55,
+      "Atk": 47,
+      "Def": 52,
+      "SpAtk": 40,
+      "SpDef": 40,
+      "Speed": 41,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 30,
+      "Name": "Nidorina",
+      "Name_CT": "尼多娜",
+      "HP": 70,
+      "Atk": 62,
+      "Def": 67,
+      "SpAtk": 55,
+      "SpDef": 55,
+      "Speed": 56,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 31,
+      "Name": "Nidoqueen",
+      "Name_CT": "尼多后",
+      "HP": 90,
+      "Atk": 82,
+      "Def": 87,
+      "SpAtk": 75,
+      "SpDef": 85,
+      "Speed": 76,
+      "Type": [
+        "Poison",
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 32,
+      "Name": "Nidoran♂",
+      "Name_CT": "尼多朗",
+      "HP": 46,
+      "Atk": 57,
+      "Def": 40,
+      "SpAtk": 40,
+      "SpDef": 40,
+      "Speed": 50,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 33,
+      "Name": "Nidorino",
+      "Name_CT": "尼多力諾",
+      "HP": 61,
+      "Atk": 72,
+      "Def": 57,
+      "SpAtk": 55,
+      "SpDef": 55,
+      "Speed": 65,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 34,
+      "Name": "Nidoking",
+      "Name_CT": "尼多王",
+      "HP": 81,
+      "Atk": 92,
+      "Def": 77,
+      "SpAtk": 85,
+      "SpDef": 75,
+      "Speed": 85,
+      "Type": [
+        "Poison",
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 35,
+      "Name": "Clefairy",
+      "Name_CT": "皮皮",
+      "HP": 70,
+      "Atk": 45,
+      "Def": 48,
+      "SpAtk": 60,
+      "SpDef": 65,
+      "Speed": 35,
+      "Type": [
+        "Fairy"
+      ]
+    },
+    {
+      "Pno": 36,
+      "Name": "Clefable",
+      "Name_CT": "皮可西",
+      "HP": 95,
+      "Atk": 70,
+      "Def": 73,
+      "SpAtk": 85,
+      "SpDef": 90,
+      "Speed": 60,
+      "Type": [
+        "Fairy"
+      ]
+    },
+    {
+      "Pno": 37,
+      "Name": "Vulpix",
+      "Name_CT": "六尾",
+      "HP": 38,
+      "Atk": 41,
+      "Def": 40,
+      "SpAtk": 50,
+      "SpDef": 65,
+      "Speed": 65,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 38,
+      "Name": "Ninetales",
+      "Name_CT": "九尾",
+      "HP": 73,
+      "Atk": 76,
+      "Def": 75,
+      "SpAtk": 81,
+      "SpDef": 100,
+      "Speed": 100,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 39,
+      "Name": "Jigglypuff",
+      "Name_CT": "胖丁",
+      "HP": 115,
+      "Atk": 45,
+      "Def": 20,
+      "SpAtk": 45,
+      "SpDef": 25,
+      "Speed": 20,
+      "Type": [
+        "Normal",
+        "Fairy"
+      ]
+    },
+    {
+      "Pno": 40,
+      "Name": "Wigglytuff",
+      "Name_CT": "胖可丁",
+      "HP": 140,
+      "Atk": 70,
+      "Def": 45,
+      "SpAtk": 75,
+      "SpDef": 50,
+      "Speed": 45,
+      "Type": [
+        "Normal",
+        "Fairy"
+      ]
+    },
+    {
+      "Pno": 41,
+      "Name": "Zubat",
+      "Name_CT": "超音蝠",
+      "HP": 40,
+      "Atk": 45,
+      "Def": 35,
+      "SpAtk": 30,
+      "SpDef": 40,
+      "Speed": 55,
+      "Type": [
+        "Poison",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 42,
+      "Name": "Golbat",
+      "Name_CT": "大嘴蝠",
+      "HP": 75,
+      "Atk": 80,
+      "Def": 70,
+      "SpAtk": 65,
+      "SpDef": 75,
+      "Speed": 90,
+      "Type": [
+        "Poison",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 43,
+      "Name": "Oddish",
+      "Name_CT": "走路草",
+      "HP": 45,
+      "Atk": 50,
+      "Def": 55,
+      "SpAtk": 75,
+      "SpDef": 65,
+      "Speed": 30,
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 44,
+      "Name": "Gloom",
+      "Name_CT": "臭臭花",
+      "HP": 60,
+      "Atk": 65,
+      "Def": 70,
+      "SpAtk": 85,
+      "SpDef": 75,
+      "Speed": 40,
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 45,
+      "Name": "Vileplume",
+      "Name_CT": "霸王花",
+      "HP": 75,
+      "Atk": 80,
+      "Def": 85,
+      "SpAtk": 100,
+      "SpDef": 90,
+      "Speed": 50,
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 46,
+      "Name": "Paras",
+      "Name_CT": "派拉斯",
+      "HP": 35,
+      "Atk": 70,
+      "Def": 55,
+      "SpAtk": 45,
+      "SpDef": 55,
+      "Speed": 25,
+      "Type": [
+        "Bug",
+        "Grass"
+      ]
+    },
+    {
+      "Pno": 47,
+      "Name": "Parasect",
+      "Name_CT": "派拉斯特",
+      "HP": 60,
+      "Atk": 95,
+      "Def": 80,
+      "SpAtk": 60,
+      "SpDef": 80,
+      "Speed": 30,
+      "Type": [
+        "Bug",
+        "Grass"
+      ]
+    },
+    {
+      "Pno": 48,
+      "Name": "Venonat",
+      "Name_CT": "毛球",
+      "HP": 60,
+      "Atk": 55,
+      "Def": 50,
+      "SpAtk": 40,
+      "SpDef": 55,
+      "Speed": 45,
+      "Type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 49,
+      "Name": "Venomoth",
+      "Name_CT": "摩魯蛾",
+      "HP": 70,
+      "Atk": 65,
+      "Def": 60,
+      "SpAtk": 90,
+      "SpDef": 75,
+      "Speed": 90,
+      "Type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 50,
+      "Name": "Diglett",
+      "Name_CT": "地鼠",
+      "HP": 10,
+      "Atk": 55,
+      "Def": 25,
+      "SpAtk": 35,
+      "SpDef": 45,
+      "Speed": 95,
+      "Type": [
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 51,
+      "Name": "Dugtrio",
+      "Name_CT": "三地鼠",
+      "HP": 35,
+      "Atk": 80,
+      "Def": 50,
+      "SpAtk": 50,
+      "SpDef": 70,
+      "Speed": 120,
+      "Type": [
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 52,
+      "Name": "Meowth",
+      "Name_CT": "喵喵",
+      "HP": 40,
+      "Atk": 45,
+      "Def": 35,
+      "SpAtk": 40,
+      "SpDef": 40,
+      "Speed": 90,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 53,
+      "Name": "Persian",
+      "Name_CT": "貓老大",
+      "HP": 65,
+      "Atk": 70,
+      "Def": 60,
+      "SpAtk": 65,
+      "SpDef": 65,
+      "Speed": 115,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 54,
+      "Name": "Psyduck",
+      "Name_CT": "可達鴨",
+      "HP": 50,
+      "Atk": 52,
+      "Def": 48,
+      "SpAtk": 65,
+      "SpDef": 50,
+      "Speed": 55,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 55,
+      "Name": "Golduck",
+      "Name_CT": "哥達鴨",
+      "HP": 80,
+      "Atk": 82,
+      "Def": 78,
+      "SpAtk": 95,
+      "SpDef": 80,
+      "Speed": 85,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 56,
+      "Name": "Mankey",
+      "Name_CT": "猴怪",
+      "HP": 40,
+      "Atk": 80,
+      "Def": 35,
+      "SpAtk": 35,
+      "SpDef": 45,
+      "Speed": 70,
+      "Type": [
+        "Fighting"
+      ]
+    },
+    {
+      "Pno": 57,
+      "Name": "Primeape",
+      "Name_CT": "火爆猴",
+      "HP": 65,
+      "Atk": 105,
+      "Def": 60,
+      "SpAtk": 60,
+      "SpDef": 70,
+      "Speed": 95,
+      "Type": [
+        "Fighting"
+      ]
+    },
+    {
+      "Pno": 58,
+      "Name": "Growlithe",
+      "Name_CT": "卡蒂狗",
+      "HP": 55,
+      "Atk": 70,
+      "Def": 45,
+      "SpAtk": 70,
+      "SpDef": 50,
+      "Speed": 60,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 59,
+      "Name": "Arcanine",
+      "Name_CT": "風速狗",
+      "HP": 90,
+      "Atk": 110,
+      "Def": 80,
+      "SpAtk": 100,
+      "SpDef": 80,
+      "Speed": 95,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 60,
+      "Name": "Poliwag",
+      "Name_CT": "蚊香蝌蚪",
+      "HP": 40,
+      "Atk": 50,
+      "Def": 40,
+      "SpAtk": 40,
+      "SpDef": 40,
+      "Speed": 90,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 61,
+      "Name": "Poliwhirl",
+      "Name_CT": "蚊香君",
+      "HP": 65,
+      "Atk": 65,
+      "Def": 65,
+      "SpAtk": 50,
+      "SpDef": 50,
+      "Speed": 90,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 62,
+      "Name": "Poliwrath",
+      "Name_CT": "蚊香泳士",
+      "HP": 90,
+      "Atk": 85,
+      "Def": 95,
+      "SpAtk": 70,
+      "SpDef": 90,
+      "Speed": 70,
+      "Type": [
+        "Water",
+        "Fighting"
+      ]
+    },
+    {
+      "Pno": 63,
+      "Name": "Abra",
+      "Name_CT": "凱西",
+      "HP": 25,
+      "Atk": 20,
+      "Def": 15,
+      "SpAtk": 105,
+      "SpDef": 55,
+      "Speed": 90,
+      "Type": [
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 64,
+      "Name": "Kadabra",
+      "Name_CT": "勇基拉",
+      "HP": 40,
+      "Atk": 35,
+      "Def": 30,
+      "SpAtk": 120,
+      "SpDef": 70,
+      "Speed": 105,
+      "Type": [
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 65,
+      "Name": "Alakazam",
+      "Name_CT": "胡地",
+      "HP": 55,
+      "Atk": 50,
+      "Def": 45,
+      "SpAtk": 135,
+      "SpDef": 85,
+      "Speed": 120,
+      "Type": [
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 66,
+      "Name": "Machop",
+      "Name_CT": "腕力",
+      "HP": 70,
+      "Atk": 80,
+      "Def": 50,
+      "SpAtk": 35,
+      "SpDef": 35,
+      "Speed": 35,
+      "Type": [
+        "Fighting"
+      ]
+    },
+    {
+      "Pno": 67,
+      "Name": "Machoke",
+      "Name_CT": "豪力",
+      "HP": 80,
+      "Atk": 100,
+      "Def": 70,
+      "SpAtk": 50,
+      "SpDef": 60,
+      "Speed": 45,
+      "Type": [
+        "Fighting"
+      ]
+    },
+    {
+      "Pno": 68,
+      "Name": "Machamp",
+      "Name_CT": "怪力",
+      "HP": 90,
+      "Atk": 130,
+      "Def": 80,
+      "SpAtk": 65,
+      "SpDef": 85,
+      "Speed": 55,
+      "Type": [
+        "Fighting"
+      ]
+    },
+    {
+      "Pno": 69,
+      "Name": "Bellsprout",
+      "Name_CT": "喇叭芽",
+      "HP": 50,
+      "Atk": 75,
+      "Def": 35,
+      "SpAtk": 70,
+      "SpDef": 30,
+      "Speed": 40,
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 70,
+      "Name": "Weepinbell",
+      "Name_CT": "口呆花",
+      "HP": 65,
+      "Atk": 90,
+      "Def": 50,
+      "SpAtk": 85,
+      "SpDef": 45,
+      "Speed": 55,
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 71,
+      "Name": "Victreebel",
+      "Name_CT": "大食花",
+      "HP": 80,
+      "Atk": 105,
+      "Def": 65,
+      "SpAtk": 100,
+      "SpDef": 60,
+      "Speed": 70,
+      "Type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 72,
+      "Name": "Tentacool",
+      "Name_CT": "瑪瑙水母",
+      "HP": 40,
+      "Atk": 40,
+      "Def": 35,
+      "SpAtk": 50,
+      "SpDef": 100,
+      "Speed": 70,
+      "Type": [
+        "Water",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 73,
+      "Name": "Tentacruel",
+      "Name_CT": "毒刺水母",
+      "HP": 80,
+      "Atk": 70,
+      "Def": 65,
+      "SpAtk": 80,
+      "SpDef": 120,
+      "Speed": 100,
+      "Type": [
+        "Water",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 74,
+      "Name": "Geodude",
+      "Name_CT": "小拳石",
+      "HP": 40,
+      "Atk": 80,
+      "Def": 100,
+      "SpAtk": 30,
+      "SpDef": 30,
+      "Speed": 20,
+      "Type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 75,
+      "Name": "Graveler",
+      "Name_CT": "隆隆石",
+      "HP": 55,
+      "Atk": 95,
+      "Def": 115,
+      "SpAtk": 45,
+      "SpDef": 45,
+      "Speed": 35,
+      "Type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 76,
+      "Name": "Golem",
+      "Name_CT": "隆隆岩",
+      "HP": 80,
+      "Atk": 110,
+      "Def": 130,
+      "SpAtk": 55,
+      "SpDef": 65,
+      "Speed": 45,
+      "Type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 77,
+      "Name": "Ponyta",
+      "Name_CT": "小火馬",
+      "HP": 50,
+      "Atk": 85,
+      "Def": 55,
+      "SpAtk": 65,
+      "SpDef": 65,
+      "Speed": 90,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 78,
+      "Name": "Rapidash",
+      "Name_CT": "烈焰馬",
+      "HP": 65,
+      "Atk": 100,
+      "Def": 70,
+      "SpAtk": 80,
+      "SpDef": 80,
+      "Speed": 105,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 79,
+      "Name": "Slowpoke",
+      "Name_CT": "呆呆獸",
+      "HP": 90,
+      "Atk": 65,
+      "Def": 65,
+      "SpAtk": 40,
+      "SpDef": 40,
+      "Speed": 15,
+      "Type": [
+        "Water",
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 80,
+      "Name": "Slowbro",
+      "Name_CT": "呆殼獸",
+      "HP": 95,
+      "Atk": 75,
+      "Def": 110,
+      "SpAtk": 100,
+      "SpDef": 80,
+      "Speed": 30,
+      "Type": [
+        "Water",
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 81,
+      "Name": "Magnemite",
+      "Name_CT": "小磁怪",
+      "HP": 25,
+      "Atk": 35,
+      "Def": 70,
+      "SpAtk": 95,
+      "SpDef": 55,
+      "Speed": 45,
+      "Type": [
+        "Electric",
+        "Steel"
+      ]
+    },
+    {
+      "Pno": 82,
+      "Name": "Magneton",
+      "Name_CT": "三合一磁怪",
+      "HP": 50,
+      "Atk": 60,
+      "Def": 95,
+      "SpAtk": 120,
+      "SpDef": 70,
+      "Speed": 70,
+      "Type": [
+        "Electric",
+        "Steel"
+      ]
+    },
+    {
+      "Pno": 83,
+      "Name": "Farfetch'd",
+      "Name_CT": "大蔥鴨",
+      "HP": 52,
+      "Atk": 65,
+      "Def": 55,
+      "SpAtk": 58,
+      "SpDef": 62,
+      "Speed": 60,
+      "Type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 84,
+      "Name": "Doduo",
+      "Name_CT": "嘟嘟",
+      "HP": 35,
+      "Atk": 85,
+      "Def": 45,
+      "SpAtk": 35,
+      "SpDef": 35,
+      "Speed": 75,
+      "Type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 85,
+      "Name": "Dodrio",
+      "Name_CT": "嘟嘟利",
+      "HP": 60,
+      "Atk": 110,
+      "Def": 70,
+      "SpAtk": 60,
+      "SpDef": 60,
+      "Speed": 100,
+      "Type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 86,
+      "Name": "Seel",
+      "Name_CT": "小海獅",
+      "HP": 65,
+      "Atk": 45,
+      "Def": 55,
+      "SpAtk": 45,
+      "SpDef": 70,
+      "Speed": 45,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 87,
+      "Name": "Dewgong",
+      "Name_CT": "白海獅",
+      "HP": 90,
+      "Atk": 70,
+      "Def": 80,
+      "SpAtk": 70,
+      "SpDef": 95,
+      "Speed": 70,
+      "Type": [
+        "Water",
+        "Ice"
+      ]
+    },
+    {
+      "Pno": 88,
+      "Name": "Grimer",
+      "Name_CT": "臭泥",
+      "HP": 80,
+      "Atk": 80,
+      "Def": 50,
+      "SpAtk": 40,
+      "SpDef": 50,
+      "Speed": 25,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 89,
+      "Name": "Muk",
+      "Name_CT": "臭臭泥",
+      "HP": 105,
+      "Atk": 105,
+      "Def": 75,
+      "SpAtk": 65,
+      "SpDef": 100,
+      "Speed": 50,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 90,
+      "Name": "Shellder",
+      "Name_CT": "大舌貝",
+      "HP": 30,
+      "Atk": 65,
+      "Def": 100,
+      "SpAtk": 45,
+      "SpDef": 25,
+      "Speed": 40,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 91,
+      "Name": "Cloyster",
+      "Name_CT": "刺甲貝",
+      "HP": 50,
+      "Atk": 95,
+      "Def": 180,
+      "SpAtk": 85,
+      "SpDef": 45,
+      "Speed": 70,
+      "Type": [
+        "Water",
+        "Ice"
+      ]
+    },
+    {
+      "Pno": 92,
+      "Name": "Gastly",
+      "Name_CT": "鬼斯",
+      "HP": 30,
+      "Atk": 35,
+      "Def": 30,
+      "SpAtk": 100,
+      "SpDef": 35,
+      "Speed": 80,
+      "Type": [
+        "Ghost",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 93,
+      "Name": "Haunter",
+      "Name_CT": "鬼斯通",
+      "HP": 45,
+      "Atk": 50,
+      "Def": 45,
+      "SpAtk": 115,
+      "SpDef": 55,
+      "Speed": 95,
+      "Type": [
+        "Ghost",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 94,
+      "Name": "Gengar",
+      "Name_CT": "耿鬼",
+      "HP": 60,
+      "Atk": 65,
+      "Def": 60,
+      "SpAtk": 130,
+      "SpDef": 75,
+      "Speed": 110,
+      "Type": [
+        "Ghost",
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 95,
+      "Name": "Onix",
+      "Name_CT": "大岩蛇",
+      "HP": 35,
+      "Atk": 45,
+      "Def": 160,
+      "SpAtk": 30,
+      "SpDef": 45,
+      "Speed": 70,
+      "Type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 96,
+      "Name": "Drowzee",
+      "Name_CT": "催眠貘",
+      "HP": 60,
+      "Atk": 48,
+      "Def": 45,
+      "SpAtk": 43,
+      "SpDef": 90,
+      "Speed": 42,
+      "Type": [
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 97,
+      "Name": "Hypno",
+      "Name_CT": "引夢貘人",
+      "HP": 85,
+      "Atk": 73,
+      "Def": 70,
+      "SpAtk": 73,
+      "SpDef": 115,
+      "Speed": 67,
+      "Type": [
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 98,
+      "Name": "Krabby",
+      "Name_CT": "大鉗蟹",
+      "HP": 30,
+      "Atk": 105,
+      "Def": 90,
+      "SpAtk": 25,
+      "SpDef": 25,
+      "Speed": 50,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 99,
+      "Name": "Kingler",
+      "Name_CT": "巨鉗蟹",
+      "HP": 55,
+      "Atk": 130,
+      "Def": 115,
+      "SpAtk": 50,
+      "SpDef": 50,
+      "Speed": 75,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 100,
+      "Name": "Voltorb",
+      "Name_CT": "霹靂電球",
+      "HP": 40,
+      "Atk": 30,
+      "Def": 50,
+      "SpAtk": 55,
+      "SpDef": 55,
+      "Speed": 100,
+      "Type": [
+        "Electric"
+      ]
+    },
+    {
+      "Pno": 101,
+      "Name": "Electrode",
+      "Name_CT": "頑皮雷彈",
+      "HP": 60,
+      "Atk": 50,
+      "Def": 70,
+      "SpAtk": 80,
+      "SpDef": 80,
+      "Speed": 140,
+      "Type": [
+        "Electric"
+      ]
+    },
+    {
+      "Pno": 102,
+      "Name": "Exeggcute",
+      "Name_CT": "蛋蛋",
+      "HP": 60,
+      "Atk": 40,
+      "Def": 80,
+      "SpAtk": 60,
+      "SpDef": 45,
+      "Speed": 40,
+      "Type": [
+        "Grass",
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 103,
+      "Name": "Exeggutor",
+      "Name_CT": "椰蛋樹",
+      "HP": 95,
+      "Atk": 95,
+      "Def": 85,
+      "SpAtk": 125,
+      "SpDef": 65,
+      "Speed": 55,
+      "Type": [
+        "Grass",
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 104,
+      "Name": "Cubone",
+      "Name_CT": "卡拉卡拉",
+      "HP": 50,
+      "Atk": 50,
+      "Def": 95,
+      "SpAtk": 40,
+      "SpDef": 50,
+      "Speed": 35,
+      "Type": [
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 105,
+      "Name": "Marowak",
+      "Name_CT": "嘎啦嘎啦",
+      "HP": 60,
+      "Atk": 80,
+      "Def": 110,
+      "SpAtk": 50,
+      "SpDef": 80,
+      "Speed": 45,
+      "Type": [
+        "Ground"
+      ]
+    },
+    {
+      "Pno": 106,
+      "Name": "Hitmonlee",
+      "Name_CT": "飛腿郎",
+      "HP": 50,
+      "Atk": 120,
+      "Def": 53,
+      "SpAtk": 35,
+      "SpDef": 110,
+      "Speed": 87,
+      "Type": [
+        "Fighting"
+      ]
+    },
+    {
+      "Pno": 107,
+      "Name": "Hitmonchan",
+      "Name_CT": "快拳郎",
+      "HP": 50,
+      "Atk": 105,
+      "Def": 79,
+      "SpAtk": 35,
+      "SpDef": 110,
+      "Speed": 76,
+      "Type": [
+        "Fighting"
+      ]
+    },
+    {
+      "Pno": 108,
+      "Name": "Lickitung",
+      "Name_CT": "大舌頭",
+      "HP": 90,
+      "Atk": 55,
+      "Def": 75,
+      "SpAtk": 60,
+      "SpDef": 75,
+      "Speed": 30,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 109,
+      "Name": "Koffing",
+      "Name_CT": "瓦斯彈",
+      "HP": 40,
+      "Atk": 65,
+      "Def": 95,
+      "SpAtk": 60,
+      "SpDef": 45,
+      "Speed": 35,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 110,
+      "Name": "Weezing",
+      "Name_CT": "雙彈瓦斯",
+      "HP": 65,
+      "Atk": 90,
+      "Def": 120,
+      "SpAtk": 85,
+      "SpDef": 70,
+      "Speed": 60,
+      "Type": [
+        "Poison"
+      ]
+    },
+    {
+      "Pno": 111,
+      "Name": "Rhyhorn",
+      "Name_CT": "獨角犀牛",
+      "HP": 80,
+      "Atk": 85,
+      "Def": 95,
+      "SpAtk": 30,
+      "SpDef": 30,
+      "Speed": 25,
+      "Type": [
+        "Ground",
+        "Rock"
+      ]
+    },
+    {
+      "Pno": 112,
+      "Name": "Rhydon",
+      "Name_CT": "鑽角犀獸",
+      "HP": 105,
+      "Atk": 130,
+      "Def": 120,
+      "SpAtk": 45,
+      "SpDef": 45,
+      "Speed": 40,
+      "Type": [
+        "Ground",
+        "Rock"
+      ]
+    },
+    {
+      "Pno": 113,
+      "Name": "Chansey",
+      "Name_CT": "吉利蛋",
+      "HP": 250,
+      "Atk": 5,
+      "Def": 5,
+      "SpAtk": 5,
+      "SpDef": 35,
+      "Speed": 50,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 114,
+      "Name": "Tangela",
+      "Name_CT": "蔓藤怪",
+      "HP": 65,
+      "Atk": 55,
+      "Def": 115,
+      "SpAtk": 100,
+      "SpDef": 40,
+      "Speed": 60,
+      "Type": [
+        "Grass"
+      ]
+    },
+    {
+      "Pno": 115,
+      "Name": "Kangaskhan",
+      "Name_CT": "袋獸",
+      "HP": 105,
+      "Atk": 95,
+      "Def": 80,
+      "SpAtk": 40,
+      "SpDef": 80,
+      "Speed": 90,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 116,
+      "Name": "Horsea",
+      "Name_CT": "墨海馬",
+      "HP": 30,
+      "Atk": 40,
+      "Def": 70,
+      "SpAtk": 70,
+      "SpDef": 25,
+      "Speed": 60,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 117,
+      "Name": "Seadra",
+      "Name_CT": "海刺龍",
+      "HP": 55,
+      "Atk": 65,
+      "Def": 95,
+      "SpAtk": 95,
+      "SpDef": 45,
+      "Speed": 85,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 118,
+      "Name": "Goldeen",
+      "Name_CT": "角金魚",
+      "HP": 45,
+      "Atk": 67,
+      "Def": 60,
+      "SpAtk": 35,
+      "SpDef": 50,
+      "Speed": 63,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 119,
+      "Name": "Seaking",
+      "Name_CT": "金魚王",
+      "HP": 80,
+      "Atk": 92,
+      "Def": 65,
+      "SpAtk": 65,
+      "SpDef": 80,
+      "Speed": 68,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 120,
+      "Name": "Staryu",
+      "Name_CT": "海星星",
+      "HP": 30,
+      "Atk": 45,
+      "Def": 55,
+      "SpAtk": 70,
+      "SpDef": 55,
+      "Speed": 85,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 121,
+      "Name": "Starmie",
+      "Name_CT": "寶石海星",
+      "HP": 60,
+      "Atk": 75,
+      "Def": 85,
+      "SpAtk": 100,
+      "SpDef": 85,
+      "Speed": 115,
+      "Type": [
+        "Water",
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 122,
+      "Name": "Mr.Mime",
+      "Name_CT": "魔牆人偶",
+      "HP": 40,
+      "Atk": 45,
+      "Def": 65,
+      "SpAtk": 100,
+      "SpDef": 120,
+      "Speed": 90,
+      "Type": [
+        "Psychic",
+        "Fairy"
+      ]
+    },
+    {
+      "Pno": 123,
+      "Name": "Scyther",
+      "Name_CT": "飛天螳螂",
+      "HP": 70,
+      "Atk": 110,
+      "Def": 80,
+      "SpAtk": 55,
+      "SpDef": 80,
+      "Speed": 105,
+      "Type": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 124,
+      "Name": "Jynx",
+      "Name_CT": "迷唇姐",
+      "HP": 65,
+      "Atk": 50,
+      "Def": 35,
+      "SpAtk": 115,
+      "SpDef": 95,
+      "Speed": 95,
+      "Type": [
+        "Ice",
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 125,
+      "Name": "Electabuzz",
+      "Name_CT": "電擊獸",
+      "HP": 65,
+      "Atk": 83,
+      "Def": 57,
+      "SpAtk": 95,
+      "SpDef": 85,
+      "Speed": 105,
+      "Type": [
+        "Electric"
+      ]
+    },
+    {
+      "Pno": 126,
+      "Name": "Magmar",
+      "Name_CT": "鴨嘴火獸",
+      "HP": 65,
+      "Atk": 95,
+      "Def": 57,
+      "SpAtk": 100,
+      "SpDef": 85,
+      "Speed": 93,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 127,
+      "Name": "Pinsir",
+      "Name_CT": "凱羅斯",
+      "HP": 65,
+      "Atk": 125,
+      "Def": 100,
+      "SpAtk": 55,
+      "SpDef": 70,
+      "Speed": 85,
+      "Type": [
+        "Bug"
+      ]
+    },
+    {
+      "Pno": 128,
+      "Name": "Tauros",
+      "Name_CT": "肯泰羅",
+      "HP": 75,
+      "Atk": 100,
+      "Def": 95,
+      "SpAtk": 40,
+      "SpDef": 70,
+      "Speed": 110,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 129,
+      "Name": "Magikarp",
+      "Name_CT": "鯉魚王",
+      "HP": 20,
+      "Atk": 10,
+      "Def": 55,
+      "SpAtk": 15,
+      "SpDef": 20,
+      "Speed": 80,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 130,
+      "Name": "Gyarados",
+      "Name_CT": "暴鯉龍",
+      "HP": 95,
+      "Atk": 125,
+      "Def": 79,
+      "SpAtk": 60,
+      "SpDef": 100,
+      "Speed": 81,
+      "Type": [
+        "Water",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 131,
+      "Name": "Lapras",
+      "Name_CT": "拉普拉斯",
+      "HP": 130,
+      "Atk": 85,
+      "Def": 80,
+      "SpAtk": 85,
+      "SpDef": 95,
+      "Speed": 60,
+      "Type": [
+        "Water",
+        "Ice"
+      ]
+    },
+    {
+      "Pno": 132,
+      "Name": "Ditto",
+      "Name_CT": "百變怪",
+      "HP": 48,
+      "Atk": 48,
+      "Def": 48,
+      "SpAtk": 48,
+      "SpDef": 48,
+      "Speed": 48,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 133,
+      "Name": "Eevee",
+      "Name_CT": "伊布",
+      "HP": 55,
+      "Atk": 55,
+      "Def": 50,
+      "SpAtk": 45,
+      "SpDef": 65,
+      "Speed": 55,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 134,
+      "Name": "Vaporeon",
+      "Name_CT": "水伊布",
+      "HP": 130,
+      "Atk": 65,
+      "Def": 60,
+      "SpAtk": 110,
+      "SpDef": 95,
+      "Speed": 65,
+      "Type": [
+        "Water"
+      ]
+    },
+    {
+      "Pno": 135,
+      "Name": "Jolteon",
+      "Name_CT": "雷伊布",
+      "HP": 65,
+      "Atk": 65,
+      "Def": 60,
+      "SpAtk": 110,
+      "SpDef": 95,
+      "Speed": 130,
+      "Type": [
+        "Electric"
+      ]
+    },
+    {
+      "Pno": 136,
+      "Name": "Flareon",
+      "Name_CT": "火伊布",
+      "HP": 65,
+      "Atk": 130,
+      "Def": 60,
+      "SpAtk": 95,
+      "SpDef": 110,
+      "Speed": 65,
+      "Type": [
+        "Fire"
+      ]
+    },
+    {
+      "Pno": 137,
+      "Name": "Porygon",
+      "Name_CT": "多邊獸",
+      "HP": 65,
+      "Atk": 60,
+      "Def": 70,
+      "SpAtk": 85,
+      "SpDef": 75,
+      "Speed": 40,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 138,
+      "Name": "Omanyte",
+      "Name_CT": "菊石獸",
+      "HP": 35,
+      "Atk": 40,
+      "Def": 100,
+      "SpAtk": 90,
+      "SpDef": 55,
+      "Speed": 35,
+      "Type": [
+        "Rock",
+        "Water"
+      ]
+    },
+    {
+      "Pno": 139,
+      "Name": "Omastar",
+      "Name_CT": "多刺菊石獸",
+      "HP": 70,
+      "Atk": 60,
+      "Def": 125,
+      "SpAtk": 115,
+      "SpDef": 70,
+      "Speed": 55,
+      "Type": [
+        "Rock",
+        "Water"
+      ]
+    },
+    {
+      "Pno": 140,
+      "Name": "Kabuto",
+      "Name_CT": "化石盔",
+      "HP": 30,
+      "Atk": 80,
+      "Def": 90,
+      "SpAtk": 55,
+      "SpDef": 45,
+      "Speed": 55,
+      "Type": [
+        "Rock",
+        "Water"
+      ]
+    },
+    {
+      "Pno": 141,
+      "Name": "Kabutops",
+      "Name_CT": "鐮刀盔",
+      "HP": 60,
+      "Atk": 115,
+      "Def": 105,
+      "SpAtk": 65,
+      "SpDef": 70,
+      "Speed": 80,
+      "Type": [
+        "Rock",
+        "Water"
+      ]
+    },
+    {
+      "Pno": 142,
+      "Name": "Aerodactyl",
+      "Name_CT": "化石翼龍",
+      "HP": 80,
+      "Atk": 105,
+      "Def": 65,
+      "SpAtk": 60,
+      "SpDef": 75,
+      "Speed": 130,
+      "Type": [
+        "Rock",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 143,
+      "Name": "Snorlax",
+      "Name_CT": "卡比獸",
+      "HP": 160,
+      "Atk": 110,
+      "Def": 65,
+      "SpAtk": 65,
+      "SpDef": 110,
+      "Speed": 30,
+      "Type": [
+        "Normal"
+      ]
+    },
+    {
+      "Pno": 144,
+      "Name": "Articuno",
+      "Name_CT": "急凍鳥",
+      "HP": 90,
+      "Atk": 85,
+      "Def": 100,
+      "SpAtk": 95,
+      "SpDef": 125,
+      "Speed": 85,
+      "Type": [
+        "Ice",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 145,
+      "Name": "Zapdos",
+      "Name_CT": "閃電鳥",
+      "HP": 90,
+      "Atk": 90,
+      "Def": 85,
+      "SpAtk": 125,
+      "SpDef": 90,
+      "Speed": 100,
+      "Type": [
+        "Electric",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 146,
+      "Name": "Moltres",
+      "Name_CT": "火焰鳥",
+      "HP": 90,
+      "Atk": 100,
+      "Def": 90,
+      "SpAtk": 125,
+      "SpDef": 85,
+      "Speed": 90,
+      "Type": [
+        "Fire",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 147,
+      "Name": "Dratini",
+      "Name_CT": "迷你龍",
+      "HP": 41,
+      "Atk": 64,
+      "Def": 45,
+      "SpAtk": 50,
+      "SpDef": 50,
+      "Speed": 50,
+      "Type": [
+        "Dragon"
+      ]
+    },
+    {
+      "Pno": 148,
+      "Name": "Dragonair",
+      "Name_CT": "哈克龍",
+      "HP": 61,
+      "Atk": 84,
+      "Def": 65,
+      "SpAtk": 70,
+      "SpDef": 70,
+      "Speed": 70,
+      "Type": [
+        "Dragon"
+      ]
+    },
+    {
+      "Pno": 149,
+      "Name": "Dragonite",
+      "Name_CT": "快龍",
+      "HP": 91,
+      "Atk": 134,
+      "Def": 95,
+      "SpAtk": 100,
+      "SpDef": 100,
+      "Speed": 80,
+      "Type": [
+        "Dragon",
+        "Flying"
+      ]
+    },
+    {
+      "Pno": 150,
+      "Name": "Mewtwo",
+      "Name_CT": "超夢",
+      "HP": 106,
+      "Atk": 110,
+      "Def": 90,
+      "SpAtk": 154,
+      "SpDef": 90,
+      "Speed": 130,
+      "Type": [
+        "Psychic"
+      ]
+    },
+    {
+      "Pno": 151,
+      "Name": "Mew",
+      "Name_CT": "夢幻",
+      "HP": 100,
+      "Atk": 100,
+      "Def": 100,
+      "SpAtk": 100,
+      "SpDef": 100,
+      "Speed": 100,
+      "Type": [
+        "Psychic"
+      ]
+    }
+  ]
+}
