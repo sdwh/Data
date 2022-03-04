@@ -14,8 +14,8 @@ Menu,Item,Name,EngName
 301,D1,薄片牛排三明治附高麗菜沙拉,Minute steak sandwich with cabbage salad
 301,D2,蔬菜絲清湯,Clear vegetable soup with julienne
 301,D3,紅酒燴牛肉附奶油雞蛋麵,Beef stew in red wine with buttered egg noodle
-301,D4,香草餡奶油泡芙,Cream puff with vanilla custard ¬lling
-301,E1,鮪魚沙拉三明治,Tuna ¬sh salad sandwich
+301,D4,香草餡奶油泡芙,Cream puff with vanilla custard filling
+301,E1,鮪魚沙拉三明治,Tuna fish salad sandwich
 301,E2,雞肉清湯附蔬菜小丁,Chicken consomme with vegetable “brunoise”
 301,E3,煎帶骨豬排附褐色洋菇醬汁,Pork chop in brown mushroom sauce with turned carrots
 301,E4,巧克力慕思,Chocolate mousse
@@ -26,7 +26,7 @@ Menu,Item,Name,EngName
 302,B1,煎烤火腿乳酪三明治,Griddled ham and cheese sandwich
 302,B2,尼斯沙拉,Nicoise salad
 302,B3,奶油青花菜濃湯,Cream of broccoli soup
-302,B4,乳酪奶油焗鱸魚排附水煮馬鈴薯,Seabass ¬llet a la mornay with boiled potatoes
+302,B4,乳酪奶油焗鱸魚排附水煮馬鈴薯,Seabass fillet a la mornay with boiled potatoes
 302,C1,蛋黃醬通心麵沙拉,Macaroni salad with mayonnaise
 302,C2,蔬菜絲雞清湯,Chicken consomme a la julienne
 302,C3,煎豬排附燜紫高麗菜,Pan fried pork loin with braised red cabbage
@@ -46,7 +46,7 @@ Menu,Item,Name,EngName
 303,B1,炒蛋附炒洋菇片,Scrambled egg with sauteed sliced mushroom
 303,B2,蔬菜片湯,Paysanne soup
 303,B3,高麗菜絲沙拉,Cole slaw
-303,B4,煎鱸魚排附奶油馬鈴薯,Seabass ¬llet meuniere with buttered potatoes
+303,B4,煎鱸魚排附奶油馬鈴薯,Seabass fillet meuniere with buttered potatoes
 303,C1,總匯三明治附炸薯條,Club sandwich with French fries
 303,C2,曼哈頓蛤蜊巧達湯,Manhattan clam chowder
 303,C3,炸麵糊鮭魚條附塔塔醬,Salmon Orly with tartar sauce
