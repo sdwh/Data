@@ -20,3 +20,7 @@ Western Cuisines Sets Data
 ## LegalPerson
 
 政府單位與法人名稱表
+
+## Country-Codes-And-Currency-Codes
+
+組合 List of ISO 3166 country codes 及 ISO 4217 Currency。
